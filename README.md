@@ -47,3 +47,14 @@
 *Last updated: 2026-10-11* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/ruturajdesai2005/Leet/tree/main/0125-valid-palindrome/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0125-valid-palindrome](https://github.com/ruturajdesai2005/Leet/tree/main/0125-valid-palindrome/) | Easy |
+<!---LeetCode Topics End-->
