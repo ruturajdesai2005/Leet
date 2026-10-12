@@ -61,15 +61,15 @@ Given an array `nums` containing `n` distinct numbers in the range `[0, n]`, ret
 ## Solution
 
 **Language:** Java  
-**Runtime:** 0 ms  
-**Memory:** 42.4 MB  
-**Submitted:** 2026-10-12T09:20:55.118Z  
+**Runtime:** 0 ms (beats 100.00%)  
+**Memory:** 47.3 MB (beats 65.37%)  
+**Submitted:** 2026-10-12T09:23:08.414Z  
 
 ```java
 class Solution {
     public int missingNumber(int[] nums) {
         
-        int n = nums.length+1;
+        int n = nums.length;
 
         int expectSum = n* (n+1)/2;
 
