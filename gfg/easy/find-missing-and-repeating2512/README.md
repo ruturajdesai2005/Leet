@@ -32,7 +32,7 @@ Explanation: Repeating number is 1 and the missing number is 5.
 **Language:** Java  
 **Runtime:** N/A  
 **Memory:** N/A  
-**Submitted:** 2026-10-12T08:55:13.144Z  
+**Submitted:** 2026-10-12T08:55:20.463Z  
 
 ```java
 class Solution {
