@@ -47,3 +47,14 @@
 *Last updated: 2026-10-13* · Powered by [**PushMyCode**](https://github.com/PushMyCode-HQ)
 
 </div>
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ruturajdesai2005/Leet/tree/main/0796-rotate-string/) | Easy |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0796-rotate-string](https://github.com/ruturajdesai2005/Leet/tree/main/0796-rotate-string/) | Easy |
+<!---LeetCode Topics End-->
